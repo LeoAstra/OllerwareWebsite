@@ -1,11 +1,21 @@
 /*Custom CSS*/
 
 
-h2{
-	color: rgb(255,169,33); 	
+h2,
+h3{
+	color: rgb(255,169,33); 
+	font-family: 'Michroma', sans-serif;
+	font-weight: bold;	
 }
 
 h1,
-h3{
-	color: rgb(34,119,255); 	
+h4,
+h5{
+	color: rgb(34,119,255); 
+	font-family: 'Michroma', sans-serif;	
+	font-weight: bold;	
+}
+
+p{
+	font-family: 'Railway', sans-serif;
 }
