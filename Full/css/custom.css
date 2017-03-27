@@ -1,21 +1,18 @@
 /*Custom CSS*/
 
-
-h2,
-h3{
-	color: rgb(255,169,33); 
+h2, h2 a, h3 {
+	/*Orange*/
+	color: rgb(255, 169, 33);
 	font-family: 'Michroma', sans-serif;
-	font-weight: bold;	
+	font-weight: bold;
 }
 
-h1,
-h4,
-h5{
-	color: rgb(34,119,255); 
+h1, h4, h5 {
+	color: rgb(29, 88, 166); /*Blue*/
 	font-family: 'Michroma', sans-serif;	
 	font-weight: bold;	
 }
 
-p{
+p {
 	font-family: 'Railway', sans-serif;
 }
