@@ -8,7 +8,8 @@ h2, h2 a, h3 {
 }
 
 h1, h4, h5 {
-	color: rgb(29, 88, 166); /*Blue*/
+	/*Blue*/
+	color: rgb(29, 88, 166); 
 	font-family: 'Michroma', sans-serif;	
 	font-weight: bold;	
 }
