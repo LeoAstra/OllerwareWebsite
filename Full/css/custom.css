@@ -6,7 +6,7 @@ h2, h2 a, h3 {
 	font-family: 'Michroma', sans-serif;
 	font-weight: bold;
 }
-
+x
 h1, h4, h5 {
 	color: rgb(29, 88, 166); /*Blue*/
 	font-family: 'Michroma', sans-serif;	
@@ -15,4 +15,16 @@ h1, h4, h5 {
 
 p {
 	font-family: 'Railway', sans-serif;
+}
+
+.panel {
+  height: 230px;
+  border: 1px solid #000000;
+}
+.panel-heading {
+  height: 90px;
+  border: 1px solid #000000;
+}
+.btn-down-index{
+	margin-top: 10px;
 }
