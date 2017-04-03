@@ -17,11 +17,11 @@ p {
 	font-family: 'Railway', sans-serif;
 }
 
-.panel {
+.panel-index {
   height: 230px;
   border: 1px solid #000000;
 }
-.panel-heading {
+.panel-heading-index {
   height: 90px;
   border: 1px solid #000000;
 }
