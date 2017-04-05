@@ -83,8 +83,13 @@ body {
 // Customise Icons
 
 .icon--facebook a {
+<<<<<<< HEAD
   background-color: #3b5998;
   background-image: url("http://benhodgson.net/codepen/social/facebook-128.png");
+=======
+    background-color: #3b5998;
+    background-image: url('http://benhodgson.net/codepen/social/facebook-128.png');
+>>>>>>> parent of 721a140... -e icons
 }
 
 .icon--twitter a {
@@ -93,7 +98,6 @@ body {
 }
 
 .icon--linkedin a {
-
     background-color: #007fb1;
     background-image: url('http://benhodgson.net/codepen/social/linkedin-128.png');
 }
