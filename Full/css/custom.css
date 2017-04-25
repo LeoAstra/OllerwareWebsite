@@ -35,3 +35,9 @@ p {
  .unity-margin{
  	margin-top: 50px;
  }
+ 
+ .navbar-magic:hover{
+    color: rgb(255, 169, 33);
+	font-family: 'Michroma', sans-serif;
+	font-weight: bold;
+ }
