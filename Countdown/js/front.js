@@ -5,9 +5,9 @@ if ($.cookie("theme_csspath")) {
 config = {
     countdown: {
         year: 2018,
-        month: 1,
-        day: 13,
-        hour: 18,
+        month: 7,
+        day: 23,
+        hour: 12,
         minute: 00,
         second: 00
     }
